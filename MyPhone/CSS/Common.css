@@ -1,0 +1,41 @@
+﻿
+.my-main {
+    margin-top: 110px;
+    margin-left: 280px;
+    width:71%;
+    overflow: hidden;
+
+}
+.left-side{
+    width: 20%;
+    height: 75%;
+    position: fixed;
+    top: 112px;
+    left: 1px;
+    margin-right: 0px;
+    margin-top: 0px;
+    overflow: auto;
+    background-color: #f2f2f2;
+    z-index: 1;
+}
+
+    .side-bar-list {
+        list-style-type: none;
+        margin-left: 0px;
+        padding-top: 10px;
+    }
+
+        .side-bar-list li {
+        }
+
+        .side-bar-list li a {
+            text-decoration: none;
+            display: block;
+            height:50px;
+            text-align: center;
+            vertical-align: central;
+        }
+
+        .side-bar-list li a:hover {
+            background-color: #cccccc;
+        }

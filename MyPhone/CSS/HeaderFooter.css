@@ -1,0 +1,12 @@
+﻿
+footer {
+    color: white;
+    background-color: green;
+    text-align: center;
+    margin-top: 20px;
+    z-index: 3;
+}
+
+footer a {
+    text-decoration: none;
+}

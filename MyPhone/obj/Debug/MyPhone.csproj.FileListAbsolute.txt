@@ -1,0 +1,5 @@
+c:\users\badiuzzaman\documents\visual studio 2012\Projects\MyPhone\MyPhone\bin\MyPhone.dll
+c:\users\badiuzzaman\documents\visual studio 2012\Projects\MyPhone\MyPhone\bin\MyPhone.pdb
+c:\users\badiuzzaman\documents\visual studio 2012\Projects\MyPhone\MyPhone\obj\Debug\MyPhone.dll
+c:\users\badiuzzaman\documents\visual studio 2012\Projects\MyPhone\MyPhone\obj\Debug\MyPhone.pdb
+C:\Users\Badiuzzaman\documents\visual studio 2012\Projects\MyPhone\MyPhone\obj\Debug\MyPhone.csprojResolveAssemblyReference.cache

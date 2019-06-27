@@ -1,0 +1,53 @@
+﻿body {
+    background-image:url("../Images/mobile-internet%20_1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main-div {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    margin: 0 0;
+    padding: 0 0;
+    top: -1px;
+    left: -1px;
+}
+
+.sub-div {
+    position: absolute;
+    height: 489px;
+    width: 313px;
+    top: 75px;
+    left: 543px;
+    background-color: white;
+    border-radius:5px;
+    border: 1px solid gray;
+}
+
+    .sub-div h2 {
+        margin-top: 0px;
+        background-color: #3366cc;
+        color: white;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-left: 6px;
+    }
+
+.submit-button {
+    margin:0 auto;
+    display:block;
+}
+
+.submit-buttton:disabled {
+    margin: auto;
+    background-color: red;
+}
+
+.hidden {
+    margin: 15px 15px;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    background-color: red;
+}
